@@ -1,0 +1,4 @@
+build/
+outputs/
+*.user
+Thumbs.db
